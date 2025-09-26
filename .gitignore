@@ -1,2 +1,3 @@
 *.tar
 *.tgz
+kafka_2.13-3.7.1/libs/*.jar
